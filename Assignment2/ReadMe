@@ -1,0 +1,4 @@
+-> command line : sudo python Assignment2.py <no_of_switches> <no_of_switches>
+-> creates a network topology of n-switches and m-hosts interconnetected via links
+-> bandwidth to be fixed for even host links = 1mbps, odd hosts = 2mbps
+-> Odd hosts can only talk to each other and even hosts can talk to each other(tested using pingAll mininet CLI command)
